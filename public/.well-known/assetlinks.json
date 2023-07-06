@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kadokawa.kadokado",
+    "sha256_cert_fingerprints":
+    ["85:BB:E8:70:E4:E2:91:72:F7:38:A4:93:58:99:55:F3:E8:D6:7E:8A:7A:4E:DB:C2:A6:85:4A:B4:BA:6A:96:44"]
+  }
+}]
